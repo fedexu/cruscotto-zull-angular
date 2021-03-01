@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: cruscotto-zuul-angular
+
+
+server:
+  port: 4000
+
+eureka:
+  client:
+    enabled: false
+
